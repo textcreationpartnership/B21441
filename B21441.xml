@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A calm answer to a violent dicourse of N.N., a seminary priest, for the invocation of saints with a reflection upon the covetousness and impostures of the popish clergy.</title>
+            <author>Du Moulin, Peter, 1601-1684.</author>
+         </titleStmt>
+         <extent>Approx. 86 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21441</idno><idno type="EEBO-CITATION">11988469</idno>
+  <idno type="VID">199451</idno>
+  <idno type="EEBO-PROQUEST">2248518234</idno>
+  
+            <idno type="STC">Wing D2556</idno>
+            <idno type="OCLC">11988469</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21441)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 199451)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 560:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A calm answer to a violent dicourse of N.N., a seminary priest, for the invocation of saints with a reflection upon the covetousness and impostures of the popish clergy.</title>
+                  <author>Du Moulin, Peter, 1601-1684.</author>
+               </titleStmt>
+               <extent>[4], 26, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Brome,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1]-[2] at end.</note>
+                  <note>Attributed to Peter du Moulin. Cf. Halkett &amp; Laing (2nd ed.)</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">N. N., --  seminary priest.</term>
+               <term type="topical_term">Saints.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:199451:1"/>
+            <pb facs="tcp:199451:1"/>
+            <p>A Calm Answer To a Violent DISCOURSE OF <hi>N. N.</hi> a Seminary Priest, FOR THE <hi>Invocation</hi> of <hi>Saints:</hi>
+            </p>
+            <p>WITH A REFLECTION UPON THE Covetousness and Impostures OF THE <hi>Popish Clergy,</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Brome,</hi> at the <hi>Gun</hi> in St. <hi>Pauls Church-yard,</hi> the West end, 1677.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:199451:2"/>
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>
+                  <hi>Guil. Jane,</hi> R.P.D.<lb/>
+                  <hi>Hen. Episc. Lond. a Sacris<lb/> domest.</hi>
+               </signed>
+               <date>Mar. 18. 1676/7.</date>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:199451:2"/>
+            <head>To Madam <hi>O.O.</hi>
+            </head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>THE Land being full of the know<g ref="char:EOLhyphen"/>ledg of the Lord, it would have been very strange, if you, being tempted to Apostacy by an Emissary of <hi>Rome,</hi> had not found a help at hand, to stand for God and you against that seduction. The Letter which he sent to you for that purpose, was sent to me by your friends, because I was at hand; and I found my self obliged, by my holy Cal<g ref="char:EOLhyphen"/>ling, to send you an Antidote against that poi<g ref="char:EOLhyphen"/>son. I have not the honour to know you, but by the report of your holy Constancy in that assault; but I know the duty of my place: And judg<g ref="char:EOLhyphen"/>ing by the stile and manner of the Priests Let<g ref="char:EOLhyphen"/>ter, that it is a set-form for him to spread abroad, and make Conquests for <hi>Rome;</hi> I judged it also necessary for me to spread abroad this Buckler against those fiery Darts of Satan, by the help of the Press. God Convert those
+<pb facs="tcp:199451:3"/>that make it their Calling to pervert us, and confirm you to the end in your most holy Faith; blessing, for that good effect, the endeavour of</p>
+            <closer>
+               <salute>Madam,</salute>
+               <lb/>
+               <signed>Your most Humble Servant.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:199451:3"/>
+            <head>A Calm Answer to the Violent Discourse of <hi>N. N.</hi> a Seminary Priest, for the Invocation of Saints.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Gentleman undertaketh to prove, That the Protestants have calumniated his Church in this point; And that therefore they are a company of Cheats, Calumniators, and false-Teachers, and consequently not the Church of Christ. Before he hath done, he will put Re<g ref="char:EOLhyphen"/>bellion and Villany to their charge. This is the civility of a Party subsisting in <hi>England</hi> by the forbearance of those whom they thus insult upon.</p>
+            <p>We shall find him as short in his Intellectual performances, as in his Moral duties. He promiseth to prove, That <hi>it is good and lawful to pray to Saints reigning in Heaven with Christ.</hi> And that, <hi>by authority of Ho<g ref="char:EOLhyphen"/>ly Scriptures, Councils, and the most ancient and learned Fathers.</hi>
+            </p>
+            <p>His first erroneous dealing, is the wrong-stating of the Question be<g ref="char:EOLhyphen"/>tween our Church and the <hi>Roman.</hi> We acknowledg the intercession of Saints to God for us. We acknowledg also, that if there were any possibility of communication between the glorified Saints and us, we might lawfully use it, and desire their praying for us to God, so that such addresses to them were made without adoration, or any religious worship, which cannot without Idolatry and horrible Sacriledg be deferred to any but God. Had <hi>N. N.</hi> considered so much, he might have saved great part of his pains.</p>
+            <p>In the front of his proofs out of Scripture, he brings the blessing which <hi>Jacob</hi> bestowed upon <hi>Joseph</hi>'s Sons, <hi>Ephraim</hi> and <hi>Manasseh:</hi> Of which Text, this is the true version; <hi>The Angel which redeemed me from all evil, bless the Lads, and let my name be named on them, and the name of my fathers Abraham and Isaac.</hi> Hence <hi>N. N.</hi> inferreth that we may pray to Angels, and if to Angels, to Saints also. In this passage he hath omitted the first half-period, <hi>The God that hath fed me all my life long unto this day;</hi> lest it should be made plain, that the An<g ref="char:EOLhyphen"/>gel whose blessing he craved for the Lads, was God himself, who had fed him, and redeemed him from all evil; else <hi>Jacobs</hi> sense must be
+<pb n="2" facs="tcp:199451:4"/>lame. Neither ought we to acknowledg our <hi>redemption</hi> from any but God, or crave <hi>blessing</hi> from any but him. But it is no new custom with <hi>Romish</hi> disputants to clip the words, and the sense of the Scrip<g ref="char:EOLhyphen"/>ture, and of the Fathers, to make them speak their sense.</p>
+            <p>This Angel is the same who is called by <hi>Malachi</hi> the <hi>Angel</hi> or the <hi>Messenger of the Covenant,</hi> whom all Interpreters take to be the Lord Jesus Christ. And this is the Angel which had wrestled before with <hi>Jacob,</hi> and had blessed him after; for it was more than any Angel could have done with effect. The ancient Fathers and <hi>Rabbins,</hi> under<g ref="char:EOLhyphen"/>stand this passage in that sense,
+<note place="margin">Cyril. <hi>lib.</hi> 3. Thesau<g ref="char:EOLhyphen"/>ri Atha<g ref="char:EOLhyphen"/>nas. <hi>Orat. contra Arianos.</hi> Procopi<g ref="char:EOLhyphen"/>us, <hi>in hunc tuum.</hi> Rabbi Menahem. <hi>in eundem.</hi>
+               </note>
+               <hi>Cyrillus, Athanasius, Procopius,</hi> and <hi>Rabbi Menahem.</hi> Accordingly the <hi>Septuagint,</hi> Eccles. 5.5, translate <hi>lyphmaleak,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>before the face of God,</hi> not of the Angel.</p>
+            <p>Upon the following words of that Text, <hi>Let my name, and the name of my Fathers, Abraham and Isaac be named on them,</hi> or (as he will have it) <hi>be invocated</hi> on <hi>them,</hi> he makes this comment; <hi>When I am dead, let me be invocated in their behalfs, as also my father Isaac, and my grandfather Abraham.</hi> This indeed is unparallel'd in all ages, that a man should bespeak himself to be invocated after his death: A superlative pride, very far from that good mans holy simplicity. The drift of the whole Chapter sheweth, that <hi>Jacob</hi> would be named, not the grandfather, but the father of <hi>Ephraim</hi> and <hi>Manasseh,</hi> as himself was named the son of <hi>Isaac,</hi> and <hi>Isaac</hi> of <hi>Abraham.</hi> Had <hi>N. N.</hi> had a design to make the Reader merry by laughing at him, he could not have devised a wilder conceit, than to make <hi>Jacob</hi> to be<g ref="char:EOLhyphen"/>speak himself to be prayed to after his death.</p>
+            <p>But what if he hath found to his thinking, a practise of that invo<g ref="char:EOLhyphen"/>cation,
+<note place="margin">Exod. 32.13.</note> when <hi>Moses</hi> invocated the names of <hi>Abraham, Isaac</hi> and <hi>Jacob,</hi> over the people: if he hath found it, he hath better eyes than we that cannot see things that are not. <hi>Moses</hi> said there to God, <hi>Remember Abraham, Isaac and Jacob thy servants.</hi> To make good <hi>N. N</hi>'s exposition, <hi>Moses</hi> should have prayed to <hi>Abraham, Isaac</hi> and <hi>Israel:</hi> But <hi>Moses</hi> was better taught than so.</p>
+            <p>Then followeth a proof of the like pregnancy: The prayer of the three <hi>Hebrew</hi> children in the furnace (We may for this time let it pass as Canonical, for any harm it can do us). <hi>Take not away from us, O Lord, thy mercy, for Abraham thy beloveds, and Isaac thy ser<g ref="char:EOLhyphen"/>vants, and thy holy Israels sake.</hi> Here is, (saith <hi>N.N.) plain invo<g ref="char:EOLhyphen"/>cation of holy men not living upon earth.</hi> But I say, here is plain want of brains in <hi>N. N.</hi> to use the two last allegations for that purpose. Is it invocation of Saints to pray to God to have mercy upon the Chil<g ref="char:EOLhyphen"/>dren for their good Fathers sake? and to remember his Covenant made with those Fathers, and with their posterity after them?</p>
+            <pb n="3" facs="tcp:199451:4"/>
+            <p> What more? God commanded <hi>Jobs</hi> friends to desire <hi>Job</hi> to pray and offer sacrifices for them. <hi>A good proof</hi> (saith he) <hi>that it is Gods will and pleasure, that we should apply our selves to his Saints to obtain fa<g ref="char:EOLhyphen"/>vour for us.</hi> Yea, but the difference between the <hi>Romanists</hi> and us, and the question stated by <hi>N.N.</hi> is about praying to Saints <hi>reigning with Christ in Heaven;</hi> which without an especial warrant from God we may not, we dare not attempt. And herein we are confirmed by <hi>N. N</hi>'s verdict, worthy to be remembred, <hi>We do not think</hi> (saith he) <hi>that we are commanded to pray to Saints.</hi>
+            </p>
+            <p>A great <hi>Romanist</hi> saith no less, even Cardinal <hi>Perron,</hi>
+               <note place="margin">p. 981.</note> who in his book against the most Excellent King <hi>James,</hi> acknowledgeth, that <hi>for the Invocation of Saints there is neither precept nor formal example in Holy Scripture.</hi> We shall hear Cardinal <hi>Bellarmin</hi> saying as much be<g ref="char:EOLhyphen"/>fore we have done. Is it so? Why then are we defamed as Hereticks, and burnt by the Inquisition for refusing that Invocation for which there is neither precept nor formal example in Scripture?</p>
+            <p>Take with these, Father <hi>Cottons</hi> perplexity about that point, and withal a remarkable passage of that mans life, who was a famous <hi>Je<g ref="char:EOLhyphen"/>suite,</hi> Confessor to <hi>Henry</hi> the IV of <hi>France.</hi> There was a <hi>Demoni<g ref="char:EOLhyphen"/>ack</hi> woman in <hi>Paris,</hi> admired for footh-saying, and solving hard que<g ref="char:EOLhyphen"/>stions; with her Father <hi>Cotton</hi> would converse under pretence of ex<g ref="char:EOLhyphen"/>orcizing the evil Spirit. To that evil Spirit he had formed questions, which being written in a single paper, he layd in a book which he had borrowed of Monsieur <hi>L'Abbe,</hi> Councellor in the Court of Parlia<g ref="char:EOLhyphen"/>ment of <hi>Paris.</hi> It happened that when he returned that book to the owner, he forgot to take out of it his paper of questions. Monsieur <hi>L'Abbe,</hi> having a little turned over his book, found that criminous pa<g ref="char:EOLhyphen"/>per, and out of indignation publish'd it in print. Among many questi<g ref="char:EOLhyphen"/>ons about State-matters (one of which was about the life of the King his Master), there were Theological questions, This among the rest, to <hi>find a Text of Scripture for the Invocation of Saints:</hi> A fit task for the Devil, after all the labour-in-vain of School-men a<g ref="char:EOLhyphen"/>bout it.</p>
+            <p>So much being granted by <hi>N. N.</hi> and his whole party, that there is no command of God to pray to Saints; Let them take for them<g ref="char:EOLhyphen"/>selves Christs rebuke to the <hi>Pharisees; In vain do they worship me,</hi>
+               <note place="margin">Mark. 7.7, 8.</note>
+               <hi>teaching for Doctrines the commandments of men. For laying aside the commandments of God, you hold the tradition of men.</hi> And what are the devotions of the Rosary to the Holy Virgin, styled the Mother of Grace, confirmed by so many Indulgences, but meer command<g ref="char:EOLhyphen"/>ments of men, without the least ground of Gods commandments and promises?</p>
+            <p>So because God hath not commanded Invocation of Saints, and
+<pb n="4" facs="tcp:199451:5"/>much less promis'd any reward for it; some men judging it never<g ref="char:EOLhyphen"/>theless to be wanting in the Church, have commanded it. That of the Holy Virgin especially, to whom the <hi>Roman</hi> Church giveth ten <hi>Aves</hi> for one <hi>Pater</hi> to God. Her they have created Queen of Heaven and of all the world, and leaving unto God the Throne of Justice, they have bestowed upon her the Throne of Grace, to which sinners may appeal from the sentence of the Throne of Justice. Whence these two effects naturally follow, The one that the Creature is exalted a<g ref="char:EOLhyphen"/>bove the Creator in the opinion of the people, for all appeals are made from an inferiour Court to a superiour. The other, that there<g ref="char:EOLhyphen"/>by men are estranged from God; for sinners that are of their Com<g ref="char:EOLhyphen"/>munion, needing Grace, will be sure to go to the Throne of Grace, that of the Virgin, and to let God alone in his Throne of Justice.</p>
+            <p>These are no fictions of ours; the famous Doctors of the <hi>Roman</hi> Church, and directors of Consciences, are full of these. These are the words of the Jesuit <hi>Viegas:</hi>
+               <note n="(a)" place="margin">
+                  <hi>Serm.</hi> 17. <hi>fol.</hi> 10, <hi>&amp;</hi> 11.</note>
+               <hi>This is the Virgin</hi> Mary <hi>with whom God hath divided his Kingdom; for where as God hath Justice and Mercy, he hath reserved Justice for himself, and hath given Mercy to his Mo<g ref="char:EOLhyphen"/>ther. Wherefore if any find himself aggrieved by the Court of Justice, let him appeal to the Throne of Mercy of the Mother of God, the Lady and Augusta.</hi> This is repeated in so many words by <hi>Bernardinus de Bustis</hi>
+               <note n="(b)" place="margin">
+                  <hi>Maria<g ref="char:EOLhyphen"/>lis Serm.</hi> 3. <hi>de nomina<g ref="char:EOLhyphen"/>tione Ma<g ref="char:EOLhyphen"/>riae.</hi>
+               </note> To the same purpose
+<note n="(c)" place="margin">
+                  <hi>Gabri<g ref="char:EOLhyphen"/>el Biel de Can. Missa Sect.</hi> 30.</note>
+               <hi>Gabriel Biel</hi> calls the Holy Vir<g ref="char:EOLhyphen"/>gin the <hi>Queen of Heaven, to whom the King of Kings, the Heavenly Fa<g ref="char:EOLhyphen"/>ther, hath given the half of his Kingdom.</hi> What more?
+<note n="(d)" place="margin">
+                  <hi>Stella<g ref="char:EOLhyphen"/>vil Coronae lib.</hi> 12. <hi>part</hi> 1. <hi>cap.</hi> 6, <hi>&amp;</hi> 7. <hi>Psalterium. Bonaven<g ref="char:EOLhyphen"/>turae.</hi>
+               </note>
+               <hi>Pelbart</hi> al<g ref="char:EOLhyphen"/>ledgeth this out of St. <hi>Bernardin. of Senes, All serve to the Empire of the Virgin, and God himself.</hi>—Then most great is the dominion of the Holy Virgin, for she doth not only command the Creatures, but God himself, as a Mother her Son.</p>
+            <p>But of all the <hi>Roman</hi> Saints, give me <hi>Saint Bonaventura,</hi> who hath transported to our Lady all the addresses made to God in the <hi>Psalms: Let our Lady arise, let her enemies be scattered. I will sing of the mer<g ref="char:EOLhyphen"/>cies of our Lady. Save me, O Lady, for thy names sake. In thee, O Lady, have I put my trust, I shall never be confounded. Our Lady is our refuge and strength, our very present help in trouble.</hi> And that nothing be wanting to the height of impiety, that blasphemous Saint hath expelled the Son of God from the right hand of God his Father, to give place to his Mother, <hi>The Lord said unto my Lady, Sit thou on my right hand, till I have made thine enemies thy footstool.</hi> Let all Chri<g ref="char:EOLhyphen"/>stians that are in their right sense judg whether these blasphemies ought to pass for holy Doctrines, because they are pronounced by Saints of the <hi>Roman</hi> Church, and owned by the unerring <hi>Roman</hi> Church; or whether by these enormities of foul Doctrine the Church of <hi>Rome</hi> shew her self to be the Mother of abominations, and the Synagogue of Satan.</p>
+            <pb n="5" facs="tcp:199451:5"/>
+            <p> This I recommend to the sober consideration of <hi>N. N.</hi> who stands so stiff upon the authority of the <hi>Roman</hi> Church as the pillar and ground of Truth, the infallible interpreter of Scripture, and the on<g ref="char:EOLhyphen"/>ly director of Religion and Conscience. If he have any ingenuity he will acknowledg by the alledged passages, that when the Governours of the Church once presume to go beyond Gods Ordinance, their will-worship knoweth no bounds, and will extravagate even into blas<g ref="char:EOLhyphen"/>phemy and non-sense.</p>
+            <p>
+               <hi>N. N.</hi> is very copious in proving that the Saints pray for us, which he needs not. We make no doubt but that the Saints in Heaven are sensible of the sufferings of the Church on Earth, and pray to God to hear their cries, and shorten their combats. We are willing to take in that sense, <hi>those golden vials full of odors,</hi>
+               <note place="margin">Rev. 5.8.</note>
+               <hi>which are the prayers of the Saints.</hi> But that they have a particular knowledg of the seve<g ref="char:EOLhyphen"/>ral addresses made unto them by men on earth: Or that they have a commission from God to be Masters of Requests in the Court of Hea<g ref="char:EOLhyphen"/>ven, or that we ought to present our requests unto God by them, it is that which never was, and never shall be proved.</p>
+            <p>To prove that they hear our prayers, <hi>N. N.</hi> alledgeth, that <hi>there is joy in heaven among the Angels of God for the conversion of one sinner;</hi> whence he inferreth, that the Angels know mens hearts, and why not the Saints? But were all this granted, it would not follow that we must pray to them. Truly neither the Angels nor the Saints know mens hearts; the Angels cannot know them otherwise than by their lives and behaviour. But there is a particular reason of the Angels re<g ref="char:EOLhyphen"/>joycing at the conversion of sinners: The Angels are employed about Gods service on earth, and no doubt but that a great part of that service is to labour for the conversion of sinners: No wonder if they rejoice when they have good success in that holy labour. They con<g ref="char:EOLhyphen"/>versing both in Heaven and on Earth can give, and do give an ac<g ref="char:EOLhyphen"/>count in Heaven of the conversion of sinners on Earth, and thereby cause joy in Heaven both among the Angels and the Saints. But we read in no place of Holy Writ, that ever any Saint was sent for that or any other errand from Heaven to Earth. Rather we are taught, that <hi>the dead know nothing,</hi>
+               <note place="margin">Eccl. 9.5, 6.</note>
+               <hi>and have no portion in the things that are done under the Sun.</hi> God may reveal to them what he pleaseth, not what we are pleased to imagin without a good warrant from him.</p>
+            <p>
+               <hi>N. N.</hi> alledgeth Christs command,
+<note place="margin">Luk. 16.9.</note> that we make to <hi>our selves friends that may receive us into the eternal Tabernacles.</hi> I know no friends that can receive us into the eternal Tabernacles, but the three Persons, and one God: And the way to make them our friends, inti<g ref="char:EOLhyphen"/>mated in that Text, is to give alms out of our Mammon. But what
+<pb n="6" facs="tcp:199451:6"/>is that to our praying to Saints? <hi>N. N.</hi> might as pertinently have brought in the head of <hi>Holofernes,</hi> to prove the lawfulness of the In<g ref="char:EOLhyphen"/>vocation of Saints, as that Text.</p>
+            <p>He citeth Saint <hi>Peters</hi> promise to pray for the Church after his de<g ref="char:EOLhyphen"/>cease.
+<note place="margin">2 Pet. 1.25.</note> But Saint <hi>Peter</hi> saith no such thing: And though he did, it is nothing to us who deny not that the Saints pray for us: But that therefore we must pray to them, it is a wrong consequence. And though we are willing to acknowledg that they pray for us, we dare not call them our Meditators, as <hi>N. N.</hi> doth; which is a blasphe<g ref="char:EOLhyphen"/>my, and giving the lye to the Holy-Ghost: who teacheth us <hi>that there is one Mediator between God and man,</hi>
+               <note place="margin">1 Tim. 2.6.</note>
+               <hi>the man Christ Jesus.</hi> And mark that which followeth, <hi>Who gave himself a ransom for us.</hi> The Apostle will not have us to acknowledg any person to be our Media<g ref="char:EOLhyphen"/>tor, but that one person who gave himself a ransom for us, and there<g ref="char:EOLhyphen"/>by giveth vertue to his mediation. But it is the Genius of <hi>Popery</hi> to transfer the honour due to God, unto the Creature.</p>
+            <p>
+               <hi>N. N.</hi> hath undertaken to prove <hi>that it is lawful and good to pray to Saints, and that by authority of Holy Scriptures, Councels, and the most ancient learned Fathers.</hi> A gallant flanting undertaking: How he hath proved it by Scripture, we have seen. Enough he hath done to betray his Cause, and shew that there is not one tittle for it in all the Word of God. Which I speak not for his disparagement, but that of his Cause. For all that could be devised out of Scripture he hath brought in.</p>
+            <p>I cannot say for him, that he hath used the like diligence about Councils and Fathers. Out of Councils he doth not bring the least proof: He is pleased only to say, That the Councils of <hi>Ephesus</hi> and <hi>Chalcedon</hi> prayed to Saints: so I need only to say that they did not, till he make them speak for themselves.</p>
+            <p>As for the <hi>most ancient and learned Fathers,</hi> he alledgeth Saint <hi>Au<g ref="char:EOLhyphen"/>stin,</hi> who deserveth a better praise, than to be <hi>the most ancient and learned Father.</hi> He makes him say, That <hi>if the shadow of</hi> Saint <hi>Pe<g ref="char:EOLhyphen"/>ter in his life time did cure diseases, he will do much more now that he is in the fulness of power.</hi> He quoteth not the place, yet I durst pass my word for Saint <hi>Austin,</hi> that he never ascribed fulness of power to Saint <hi>Peter.</hi> But the <hi>Romanists,</hi> who derive the Popes Power from Saint <hi>Peter,</hi> will be sure to ascribe to that Apostle as much sulness of power as they can, that from Saint <hi>Peter</hi> it may pass to the Pope. Be the passage of Saint <hi>Austin</hi> true or false, it is nothing to us, for it toucheth not the point in question, which is, the lawfulness of pray<g ref="char:EOLhyphen"/>ing to Saints.</p>
+            <p>Very boldly, and very untruly <hi>N. N.</hi> affirmeth, that <hi>there is none of the ancient Fathers, but shewed and practised prayers to the Saints.</hi>
+               <pb n="7" facs="tcp:199451:6"/>Let him in 375 years of the first Christian Antiquity find, if he can, any one instance of that practice. The first that began it was <hi>Grego<g ref="char:EOLhyphen"/>ry Nazianzen,</hi> who in his eloquent Orations, hath rhetorical ad<g ref="char:EOLhyphen"/>dresses to his deceased friends; yet modified with doubtful reservati<g ref="char:EOLhyphen"/>ons. In his funeral Oration for his sister <hi>Gorgonia,</hi> he speaks thus to her soul, <hi>If thou hast any respect of the honour we do thee, and if that reward be given to holy souls to have a resenting of these things, receive this speech of mine;</hi> shewing himself doubtful whether his deceased sister heard him. The like doubting expression he useth in his Oration against <hi>Julian</hi> the Apostate, <hi>Hear thou excellent soul of</hi> Constantine, <hi>if thou have any feeling left.</hi> These were the infant-trembling begin<g ref="char:EOLhyphen"/>nings of the Invocation of Saints.</p>
+            <p>
+               <hi>N. N.</hi> would have us to believe upon his honest word, that seve<g ref="char:EOLhyphen"/>ral Fathers whom he nameth, taught the Invocation of Saints.
+<note place="margin">Eusebius Greg. Naz. Greg. Nyss. Cyril. Teros. Chrysost.</note> But to make us believe that they taught so, their own words would have been to better purpose than his.</p>
+            <p>Having done nothing to the purpose, yet he makes a high boast of his atchievements: <hi>I have</hi> (saith he) <hi>proved the lawfulness of praying to Saints, by the testimony of the most learned and ancient Fathers and Doctors of the Church, and by the authority of General Councils.</hi> Have you done so, Sir? Not in any paper of yours that came to my hands. If naming only Fathers and Councils be proving by them, in his Logick, I am sure it is not in that of the Schools, nor in common sense, nor in honesty. Let any ingenious person peruse his paper, and judg whe<g ref="char:EOLhyphen"/>ther he hath given the least ground for that boasting.</p>
+            <p>With the like ostentation, without any proof, he sets forth <hi>the con<g ref="char:EOLhyphen"/>stant custom of the whole Church to pray to the Saints, from the time of the Apostles;</hi> and he hath never done insisting upon that. But we must believe him upon his bare word.</p>
+            <p>We build not our faith upon humane testimonies: Yet to shew the vanity of that boast, I will bring some testimonies of the best and first Antiquity.</p>
+            <p>In the fourth book of the Ecclesiastical History of <hi>Eusebius,</hi>
+               <note place="margin">cap. 15.</note> we have the relation of the Martyrdom of <hi>Policarp,</hi> Bishop of <hi>Smyrna,</hi> a Disciple of Saint <hi>John.</hi>
+            </p>
+            <p>That holy Martyr being dead, some by the suggestion of the <hi>Jews,</hi> desired the Governour of <hi>Smyrna</hi> that his body should not be delivered to the Christians, lest they should worship him. The Christians of <hi>Smyrna,</hi> (who have recorded this History), thereupon spake thus for themselves, <hi>They know not that we cannot leave Christ, who hath suffer<g ref="char:EOLhyphen"/>ed for the salvation of all them that are saved in the world, nor serve any other but him. For as for Jesus Christ, who is the Son of God, we worship him. But as for the Martyrs, we love them worthily, as Disci<g ref="char:EOLhyphen"/>ples
+<pb n="8" facs="tcp:199451:7"/>and imitators of the Lord.</hi> This is a precious jewel of the purest Antiquity. A relick which deserveth more veneration than all the re<g ref="char:EOLhyphen"/>licks idolized in the <hi>Roman</hi> Church.</p>
+            <p>
+               <hi>Ignatius</hi> who lived in the year of Christ 140, in his Epistle to the <hi>Philadelphians,</hi> speaks thus to the Virgins, <hi>You Virgins, have Jesus Christ alone before your eyes, and the Father in your prayers.</hi>
+            </p>
+            <p>
+               <hi>Clemens Alexandrinus,</hi>
+               <note place="margin">
+                  <hi>Stromat.</hi> Lib. 7.</note> a little later than <hi>Ignatius,</hi> reasoneth thus, <hi>There being but one truly good, which is God, both we and the Angels pray to him alone.</hi>
+            </p>
+            <p>
+               <hi>Irenaeus</hi> who lived about the year of Christ 220, speaks thus: <hi>The Church doth nothing by the invocation of Angels,</hi>
+               <note place="margin">Lib. 2.</note>
+               <hi>but purely and simply addresseth her prayers unto God, and calls upon the name of the Lord Jesus.</hi>
+            </p>
+            <p>The Council of <hi>Laodicea</hi> pronounceth Anathema to those that called upon Angels,
+<note place="margin">Can. 35.</note> and declareth them idolaters. In those days, in the year of Christ 368, the invocation of Saints was not yet in fashi<g ref="char:EOLhyphen"/>on, but that of the Angels was, and had begun even in the Apostles time:
+<note place="margin">Col. 2.18.</note> Thus reproved by Saint <hi>Paul, Let no man beguile you of your reward in a voluntary humility, and worshipping of Angels, intru<g ref="char:EOLhyphen"/>ding into those things which he hath not seen, vainly puffed up by a fleshly mind.</hi>
+            </p>
+            <p>Origines,
+<note place="margin">
+                  <hi>Contra Cels</hi> lib. 8.</note>
+               <hi>We must pray to God alone, who is above all things. We must pray also to his only Son.</hi>
+            </p>
+            <p>Lanctantius:
+<note place="margin">Lib. 2. <hi>In<g ref="char:EOLhyphen"/>stit. divin.</hi> cap. 17.</note>
+               <hi>Let us worship none, and serve none but only the God<g ref="char:EOLhyphen"/>head of our Maker and Father.</hi>
+            </p>
+            <p>Saint <hi>Ambrose,</hi> or whosoever is the Author of the Commentary upon the Epistle to the <hi>Romans</hi> put among <hi>Ambroses</hi> works, dispu<g ref="char:EOLhyphen"/>ting against the <hi>Pagans,</hi> who by the Stars (which they took to be in<g ref="char:EOLhyphen"/>telligent Creatures) pretended to go to God, as suitors go to the King by Colonels and Governors, styleth that a <hi>miserable excuse.</hi> Then he addeth, <hi>Suitors go to the King by Colonels and Governors, be<g ref="char:EOLhyphen"/>cause the King is a man, uncertain to whom he shall trust the Government of the State. But to get the favour of God, to whom nothing is unknown, (for he knoweth what men deserve), there is no need of any to help you with his good word, but only of a devout spirit. For whensoever a man so disposed shall speak to him, he will answer him.</hi> A notable Autho<g ref="char:EOLhyphen"/>rity, not so much because the <hi>Papi<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts</hi> themselves have put it among <hi>Ambroses</hi> works, as for the soundness of the reasoning; which to any reasonable person is most convincing, and confounding the practice of the Invocation of Saints.</p>
+            <p>Since <hi>N. N.</hi> takes upon him to alledg Saint <hi>Austin,</hi> I will serve him with a Text or two of that excellent Father, to better purpose than that which he citeth, but knoweth not where to find it, and
+<pb n="9" facs="tcp:199451:7"/>which concerneth not the matter in Question, the Invocation of Saints.
+<note place="margin">
+                  <hi>De civit Dei.</hi> l. 22. c. 10.</note> In the 22 book of the City of God, <hi>Chap.</hi> 10. Saint <hi>Austin</hi> com<g ref="char:EOLhyphen"/>pareth thus the service which the <hi>Pagans</hi> did to their Deified men, <hi>Hercules</hi> and <hi>Romulus,</hi> with the celebration which the Christians made of their Martyrs memory.</p>
+            <p>
+               <hi>They</hi> (meaning the <hi>Pagans), have erected Temples and Altars to such gods, and have instituted for them Priests and Sacrifices. But to our Martyrs we build no Temples as to gods, but Monuments as unto dead men. Neither do we erect Altars to sacrifice unto the Martyrs: But to that one God both of the Martyrs and ours, we offer our Sacrifice. And at that Sacrifice, those men of God that have overcome the world in confessing him, are named in their place and order. Yet they are not In<g ref="char:EOLhyphen"/>vocated by the Priest that makes the Sacrifice.</hi>
+            </p>
+            <p>The same Father, in the eighth Book of the City of God, <hi>Chap.</hi> 27.
+<note place="margin">
+                  <hi>De civit. Dei.</hi> lib. 8. cap. 27.</note> speaks much to the same purpose. <hi>Nec tamen nos iisdem Martyribus templa, facerdotia, sacra, &amp; Sacrificia constituimus, quia non ipse sed Deus eorum est nobis Deus. We do not</hi> (saith he) <hi>appoint to the Mar<g ref="char:EOLhyphen"/>tyrs, Temples, Priests, Religious Service, and Sacrifices, because they are not our gods; but their God is our God.</hi>
+            </p>
+            <p>Upon which, <hi>Ludovicus Vives,</hi> the Learned Commentator on St. <hi>Austin,</hi> makes this sad observation, <hi>Many Christians in a good thing commonly offend, that they venerate Saints of both sexes no otherwise than God. And in many of them I see no difference between their opinion of their Saints, and that which the Gentiles had of their gods.</hi>
+            </p>
+            <p>How different is that Holy Antiquity of the Church from the pre<g ref="char:EOLhyphen"/>sent practise of the <hi>Roman</hi> Church, which erecteth Altars to Saints, and over the Altars the Saints Images, and burn Tapers to their ho<g ref="char:EOLhyphen"/>nour: And before the Altar there is kneeling, and Invocating of the Saint? As for the Temples bearing the names of Saints, they will say that the Temple is built especially to the Honour of God, and next of the Saint. But by changing the name of <hi>Christs Church</hi> of <hi>Canterbu<g ref="char:EOLhyphen"/>ry</hi> to that of Saint <hi>Thomas</hi> (as they had begun to do, a little before the Reformation), they shewed that they had more devotion to <hi>Tho<g ref="char:EOLhyphen"/>mas Becket</hi> than to Jesus Christ.</p>
+            <p>Whereas then <hi>N. N.</hi> presseth us with the Authority of the whole Church; we have excepted the ancient Church out of that Universa<g ref="char:EOLhyphen"/>lity: And we could descend to lower Ages if need were.</p>
+            <p>But how shall we defend our selves against that terrible croud which <hi>N. N.</hi> raiseth against us, the Universal Church in our Age? By the Church he meaneth the <hi>Roman,</hi> conceiving no other Church in the World but such as worshippeth the Pope. Whereas it is not the fourth part of the Christian Provinces. For the <hi>Greek,</hi> the <hi>Armenian,</hi>
+               <pb n="10" facs="tcp:199451:8"/>the <hi>Persian,</hi> the <hi>Indian,</hi> the <hi>Ethiopick;</hi> besides a considerable part of <hi>Europe,</hi> which hath shaken off the Popes tyranny, and all the oppressed souls that groan under it. These I say, do five or six times exceed the true <hi>Romanists</hi> in number, as much as the <hi>Romanists</hi> exceed them in pride: Such a pride, that with <hi>N. N.</hi> and his Cronies, it is the <hi>highest Rebellion to believe and obey the word of God without the interpre<g ref="char:EOLhyphen"/>tation and leave of their Church;</hi> which craving superiority over the Word of God, will allow of no Doctrine, and no Interpretation of Scripture, but such as serveth to advance the Grandeur and the Wealth of their Temporal Monarchy. Now of all those Doctrines, none (next to that of Purgatory) worketh more their greatness and lucre than that of the Invocation of Saints, whose merits have founded so many Convents, and inrich'd so many Abbeys, and of whose Saint<g ref="char:EOLhyphen"/>ship the Pope is the Creator. If in the <hi>Roman</hi> Church none but God were worshipped and prayed to, as it was in the Primitive Church, the <hi>Roman</hi> Regular Clergy would be a poor Clergy, and the Secular little better.</p>
+            <p>We are summoned by <hi>N. N.</hi> to find that praying to Saints is for<g ref="char:EOLhyphen"/>bidden in Scripture. <hi>They cannot find</hi> (saith he) <hi>one Text in Scrip<g ref="char:EOLhyphen"/>ture, that saith in plain terms that prayer to Saints is unlawful, or that it is a fond thing.</hi> We can find Texts that say so much in plain terms, though not perhaps in the very terms of his desising. For this is one of the quillets of his party, to frame terms of our Doctrine for us, and then Challenge us to find them expressy in Scripture. If I say after Christ,
+<note place="margin">Matt. 4.10.</note>
+               <hi>Thou shalt worship the Lord thy God, and him only shalt thou serve;</hi> are not these plain terms to prove that prayer to Saints is un<g ref="char:EOLhyphen"/>lawful? And if I find God deriding those that pray to others than him, and that pray even to the dead for the living, saying, <hi>Should not a people seek unto their God?</hi>
+               <note place="margin">Isa. 8.19.</note>
+               <hi>for the living to the dead?</hi> is it not saying in plain terms, That for one to pray to another than his God, and to pray to the dead for the living, is a fond thing?</p>
+            <p>All the prayers in the book of <hi>Moses,</hi> and in the <hi>Psalms,</hi> and in the Prophets, and in the New Testament, are addrest unto God alone. Which Cardinal <hi>Bellarmin</hi> considering, saith with a pleasant ingenui<g ref="char:EOLhyphen"/>ty,
+<note place="margin">Bellar. <hi>de cultu San<g ref="char:EOLhyphen"/>ctorum.</hi> cap. 9.</note> That <hi>when the Holy Scriptures were written, the custom was not yet to make vows unto the Saints.</hi>
+            </p>
+            <p>For that round-dealing the Protestants are much obliged to his Eminence. Let this be taken into serious consideration; The Doctrine, and the attaining of Salvation, was in the Church so many thousands of years without any Invocation of Saints; how is it become the main part of Religion in these last Ages of the World? If they made their addresses to God successfully, without the help of Saints, may we not enjoy the like priviledg; now especially, that we have the Son of
+<pb n="11" facs="tcp:199451:8"/>God manifested and given unto us in the Gospel, for our Mediator be<g ref="char:EOLhyphen"/>tween God and men; whereas the Church before him had him but under a vail? Certainly, neither under the Law, nor under the Gospel, have we any Mediator appointed by God to present the Churchers prayers to him, but Christ alone.</p>
+            <p>Whereas then <hi>N. N.</hi> tells us, Find me a Text of Scripture, saying, that prayer to Saints is unlawful: we say to him, Find us a Text of Scripture where Prayer to Saints, and worship of Saints, be comman<g ref="char:EOLhyphen"/>ded, or allowed, or practiced.</p>
+            <p>We find Saint <hi>John</hi> worshipping an Angel, but we find him also rebuked for it by the Angel. <hi>See that thou do it not,</hi>
+               <note place="margin">Rev. 19.10.</note>
+               <hi>for I am thy fel<g ref="char:EOLhyphen"/>low servant, and of thy brethren the Prophets, and of them that keep the sayings of this book: Worship God.</hi>
+            </p>
+            <p>Saint <hi>James</hi> bids us to <hi>ask in Faith.</hi> Asking in Faith,
+<note place="margin">Jam. 1.6.</note> is praying with assurance, that we pray according to the Will and Word of God: for <hi>Faith is by the Word of God.</hi>
+               <note place="margin">Rom. 10.17.</note> If then the Word of God giveth no allowance to your praying to a Saint, How can you pray to him in Faith? Do you believe on that Saint? No doubt but <hi>N. N.</hi> will say, No. Why then do you pray to him? It is the very Questi<g ref="char:EOLhyphen"/>on of Saint <hi>Paul,</hi>
+               <note place="margin">Rom. 10.14.</note>
+               <hi>How shall they call on him in whom they have not be<g ref="char:EOLhyphen"/>lieved?</hi> The Apostle (you see) admits not that gradation, I call on the Saint, that the Saint may call for me on him in whom I be<g ref="char:EOLhyphen"/>lieve.</p>
+            <p>To that wheeling about by a Saint to God, if you joyn praying be<g ref="char:EOLhyphen"/>fore the Saints Image, and that in a Tongue which the person that prayeth understands not, and turning and telling beads withall; a wise Christian cannot but perceive the Devils design, to puzzle the people Devotion, and bewilder their very senses with out-sides, that amuze the eyes, and buzy the fingers, and imploy the memory about the number of Beads, and leave the soul empty.</p>
+            <p>This you may see every day in their Churches and Oratories: A woman on her knees, saying her <hi>Pater Noster</hi> before an Image of Saint <hi>Margaret,</hi> a Saint which hardly is in Heaven, for she never lived on Earth. The object of the good Womans Devotion being that of her eyes, it is ten to one that she calls <hi>Father</hi> the Image of that Female, no Saint, and no where. The Saint and the Image understand her not, and she understands not her own self, her prayer being in Latin. Up<g ref="char:EOLhyphen"/>on what bottom doth that poor soul fix the Anchor of her Faith in her prayer? All these prodigies of absurdity and irreligion had been a<g ref="char:EOLhyphen"/>voided, if she had been taught to call plainly upon God through Je<g ref="char:EOLhyphen"/>sus Christ, in her Mothers Tongue.</p>
+            <p>But can the Patron-Saint of <hi>N. N.</hi> hear his prayers better than Saint <hi>Margaret</hi> and her Image? He tells us, that the Angels know
+<pb n="12" facs="tcp:199451:9"/>mens hearts, and why not the Saints? I have shewed how the Angels may have joy in Heaven at the Conversion of sinners, and make the Saints rejoyce with them, without need of that impious supposition, that they know mens hearts. The <hi>Papists</hi> have much contention among themselves, about the manner how the Saints come to know mens prayers made unto them. Their old supposition was the <hi>Grego<g ref="char:EOLhyphen"/>gorian</hi> glass, God himself, in which the Saints by beholding God, be<g ref="char:EOLhyphen"/>hold also all that God beholdeth. A supposition grounded upon this Maxim, That whoso seeth him that seeth all, seeth all himself. But that this Maxim is rejected as false by their own <hi>Occam</hi> and <hi>Aquinas,</hi>
+               <note place="margin">Greg. <hi>de</hi> Val. <hi>de modo quo Deus cog<g ref="char:EOLhyphen"/>noscit.</hi> Disp. 1. qu. 12. Puncto. 6. Sect. <hi>Con<g ref="char:EOLhyphen"/>cesso igi<g ref="char:EOLhyphen"/>tur.</hi>
+               </note> we learn of <hi>Gregorius de Valentia,</hi> who saith, That <hi>it is well for the Saints, if they see in God the things that are proper for their happi<g ref="char:EOLhyphen"/>ness.</hi>
+            </p>
+            <p>That Glass being broken, they devise a second way, which is a Re<g ref="char:EOLhyphen"/>velation from God to the Saints, of all the requests made to them on earth, that they may present them unto him. So they put that drudgery upon God, to tell to Saint <hi>Margaret,</hi> the Patroness of Midwifery, So many thousands of Women in Labour pray to thee, that thou wouldst pray to me for their happy deliverance; so much I let thee know, that thou mayst do what they desire of thee: and when thou hast prayed to me for them, I shall advise how far I shall grant it.</p>
+            <p>The like Revelations must be imagined to be made to the Saints, Protectors of the several Provinces and Professions. Indeed as for the Holy Virgin, who is made the Plenipotentiary Mother of Grace, and hath ten times more worship than God (a proportion observed in the Rosary), it may be thought, that without such Revelations she may out of the brightness of her radiant light know, and out of the plenitude of her Motherly power (to which appeal is made even from God) grant or deny all the suits addrest to her, and no need to go further. But howsoever, she hath need to have an unwearied head<g ref="char:EOLhyphen"/>piece,
+<note place="margin">Bell. <hi>de beat.</hi> Sanct l. 1. c. 20. Sect. <hi>Alii dicunt.</hi>
+               </note> to go through such an infinite croud of business. <hi>Bellarmin</hi> seeing what Task this Doctrine puts upon Sai<gap reason="illegible: faint" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, and upon God him<g ref="char:EOLhyphen"/>self, saith, That to <hi>help men in the point of need at the same time, and in so many distant Countries, no nimbleness can serve the turn, nor any less than true Omnipresence, which is an attribute proper to God.</hi>
+            </p>
+            <p>The Holy Virgin having so many businesses in the Court of Hea<g ref="char:EOLhyphen"/>ven, for which the brains of a hundred Lord Chancellors, and all their Officers, would not serve; it is to be wondred at, how she may find leasure for journeys abroad, and sometimes long absence. As when to save the credit of <hi>Beatrin</hi> a Nun,
+<note place="margin">Caesarius. 7. lib. <hi>mi<g ref="char:EOLhyphen"/>racul</hi> cap. 35.</note> especially devout to her, she went to her Convent, put on her shape, and filled her place whole fifteen years, while the devout Nun solaced her body in bawdy<g ref="char:EOLhyphen"/>houses.
+<pb n="13" facs="tcp:199451:9"/>It were worth knowing who in those fifteen years filled the Holy Virgins place in Heaven, to answer the infinity of Suits daily sent up unto her Court: for how many might call upon her in that long time that she was not at home?</p>
+            <p>
+               <hi>N. N.</hi> hath found a way which easeth much the dispatch of Suits addressed to Saints; for he will have <hi>the Saints to know the hearts of men.</hi> Contrary to that most express Declaration in <hi>So<g ref="char:EOLhyphen"/>lomons</hi> prayer in the Consecration of the Temple, an occasion in which he was especially guided by God's Spirit, <hi>Thou,</hi>
+               <note place="margin">1 Kings 8.39.</note>
+               <hi>even thou only knowest the hearts of the children of men.</hi> Hath God ceased to be the only knower of hearts, since praying to Saints is come in fashion? Hath God given them the Key of the Locks of mens hearts? May the Saints with that Key unlock a mans heart at a<g ref="char:EOLhyphen"/>ny time, and read his mental prayers in his Closet, and in his Bed? What warrant have we from the Word of God, or what ground in reason that God imparts the gift of knowing mens hearts, (which is his most proper and incommunicable attribute) to those whom it pleaseth the Pope to Canonize? It is such a Note above <hi>Ela,</hi> such a monstrous conceit, as can win no mans belief, that hath not enslaved his conscience, and his very common sense to the Popes and his Clergys worldly interest. To reconcile such extra<g ref="char:EOLhyphen"/>vagancies with reason, they run into such fictions and wild suppo<g ref="char:EOLhyphen"/>sitions, as turn Religion to a <hi>Chimera,</hi> and open a wide gap to <hi>A<g ref="char:EOLhyphen"/>theism.</hi> No better was to be expected of men <hi>intruding</hi> themselves into <hi>things they have not seen,</hi>
+               <note place="margin">Col. 2.8.</note>
+               <hi>vainly puffed up with their fleshly mind.</hi> That way men came to Worship Angels, as we learn of Saint <hi>Paul;</hi> The same way also they came to Worship Saints.</p>
+            <p>Let every Christian that finds himself bound by the first and great Commandment, <hi>Thou shalt have no other Gods before me,</hi> beware of making religious addresses to others than God. Whosoever prayeth to any other, and makes a Sacrifice of his heart to a Saint or an Angel, makes another god to himself than God, and before his face, who is jealous of his glory. It is the worst imprudence to provoke his jealousie. And those shall feel it in this world, or in the next, that bestow upon another the homage and honour due to God alone.</p>
+            <p>Say not, I worship the Saints with an inferior worship: So did the Idolatrous <hi>Jews</hi> worship the <hi>Baalim,</hi> who were the Saints of those days, men Deified (as bad as Canonized) after their death. And they worshipped the Lord too. But the Lord scorned then, and so doth now, to have any partner in the Devotions of his Creatures. He will have all their worship, all to himself alone.
+<pb n="14" facs="tcp:199451:10"/>No doubt but that Saint <hi>John</hi> intended not the highest worship to the Angel when he fell down before him, Yet the Angel rebuked him for it, and bad him <hi>Worship</hi> God.</p>
+            <p>When all is said in all consultations, every wise man will take that course which is without exception: Such is the address unto God by the Mediation of his Son. The contending-parties agree upon that. Let us stand to that, and do it sincerely and care<g ref="char:EOLhyphen"/>fully, we shall never be confounded.</p>
+            <p>And whereas it is the Devils perpetual design to diminish the Service and Glory of God, every wise Christian will avoid those new Channels cut for mens Devotion, the services to the several Saints, seeing how thereby the Service and Glory due to God is shared between God and the Creature; and that the Crea<g ref="char:EOLhyphen"/>ture hath got the greater share in all places where <hi>Popery</hi> reign<g ref="char:EOLhyphen"/>eth.</p>
+            <p>
+               <hi>N.N.</hi> alledgeth out of Saint <hi>Ambrose,</hi> that miracles were wrought by the Relicks of <hi>Geroase</hi> and <hi>Protase</hi> Martyrs. But <hi>Ambrose</hi> saith not that they were worshipped and prayed to. The miracles were done at, not by the Relicks, but by God who would grace the memory of those that had suffered for his truth. He, not the Saints, not their Relicks, must be glorified for that mer<g ref="char:EOLhyphen"/>cy.</p>
+            <p>He acknowledgeth that the <hi>Protestants</hi> follow the authority of the Universal Church in many things, and why not in the Invo<g ref="char:EOLhyphen"/>cation of Saints? taking it for granted, <hi>That the Invocation of Saints hath the warrant of the authority of the ancient Ʋniversal Church,</hi> which we deny: And I have shewed that the Universal Church in her primitive purity was against it. For the Church of <hi>Rome</hi> to bear her self now for Universal, it is a senseless pride, she being none of the greatest limbs of it, and the impurest of all. But though she were what she styleth her self, <hi>Ʋniversal;</hi> In points of Religion, it is not the multitude of the professors, but the truth of the Doctrine,
+<note place="margin">Exod. 23.2.</note> that must have the casting-voice. <hi>Thou shalt not follow the multitude to do evil.</hi>
+            </p>
+            <p>I will not forgive to <hi>N. N.</hi> his excursions out of his subject. He falls foul upon poor <hi>John Calvin,</hi> whom he sets forth as <hi>stig<g ref="char:EOLhyphen"/>matized for a Villain.</hi> Those that have more interest in him than we, have sufficiently confuted that slander against his morals. And as for his Doctrinals, the Jesuit <hi>Sanctius</hi> hath been his Champi<g ref="char:EOLhyphen"/>on, for he hath faithfully translated his Comment upon <hi>Isaiah,</hi> out of that of <hi>Calvin.</hi>
+            </p>
+            <p>But <hi>N. N.</hi> slandereth us with saying that the truth which we maintain, was unknown to the world till it was discovered by <hi>Cal<g ref="char:EOLhyphen"/>vin:</hi>
+               <pb n="15" facs="tcp:199451:10"/>Whereas the Church of <hi>England</hi> had Martyrs for the truth which we profess, in <hi>Henry</hi> the VIII his time, ten years before the name of <hi>Calvin</hi> was known in <hi>England:</hi> yea, two hundred years before. Neither was our Church reformed upon <hi>Calvins</hi> form.</p>
+            <p>Nay, he was much posteriour to the Reformation in <hi>France.</hi> Of which, they that have sought the beginning, are come short of it, if they have taken no notice that those which em<g ref="char:EOLhyphen"/>braced that Profession in the large Provinces, between the <hi>Pyrenees</hi> and the <hi>Alps,</hi> as soon as they heard it countenanced in <hi>Germa<g ref="char:EOLhyphen"/>ny,</hi> were the posterity of the <hi>Albigenses,</hi> of whom Saint <hi>Domi<g ref="char:EOLhyphen"/>nick</hi> and his Zealots had butchered twelve hundred thousand, three hundred years before, for the same Holy Truth. A Truth, which being supprest by the sword, had left such roots in the posterity, that it filled the land with its sprigs as soon as it met with en<g ref="char:EOLhyphen"/>couragement.</p>
+            <p>The <hi>Albigenses</hi> were called, in contempt by their enemies, <hi>Pau<g ref="char:EOLhyphen"/>peris de Lugduno, the poor men of Lyons,</hi> or the <hi>Leonists,</hi> though they were a powerful party, maintained by <hi>Raymond</hi> Count of <hi>Toulouse,</hi> a potent Prince, and even by the King of <hi>Arragon.</hi> Let the ene<g ref="char:EOLhyphen"/>mies of their memory take this account of them from that sworn enemy <hi>Rainerius,</hi> their cruel Inquisitor,
+<note place="margin">
+                  <hi>Rainerius contra Val<g ref="char:EOLhyphen"/>denses,</hi> cap. 4.</note> who made bonefires of them; who yet had been one of them, and therefore had an ex<g ref="char:EOLhyphen"/>perimental knowledg of the men and their communication. <hi>The Leonists</hi> (saith he) <hi>are the most pernicious Sect of all Sects, that are or ever have been; and that for three causes: The first, because they are of the longest standing; for some say that they have conti<g ref="char:EOLhyphen"/>nued ever since Pope</hi> Sylvester; <hi>Others say, from the time of the Apostles. The second, because it is more general than any Sect, for there is no land in which they are not. The third cause is, that whereas all other Sects, by the horridness of their blasphemies against God, strike horror into those that hear them, This Sect of the Leo<g ref="char:EOLhyphen"/>nists hath the face of piety, in that they lead a righteous life, and believe all things well of God: Only they blaspheme the Church of</hi> Rome.</p>
+            <p>
+               <hi>Antonius Sonensis,</hi> cited by <hi>Gretserus</hi> in his Prolegomena to the <hi>Bibliotheca Patrum,</hi> saith, That this <hi>Rainerius</hi> lived <hi>A. D.</hi> 1254, a man of great Learning, and formerly a Bishop among the Here<g ref="char:EOLhyphen"/>ticks; but afterwards he le<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t them, and became a severe Inquisitor in <hi>Lombardy.</hi> If then above 400 years ago they were of great Antiquity, their Doctrine ought not to be taxed of Novelty in our days, now their Doctrine is ours, in the main points, as we may justifie by their Confessions, which we have. <hi>Sigonius</hi> finds them in <hi>Milan,</hi> Anno 1056, under the name of <hi>Patavini.</hi> He might have
+<pb n="16" facs="tcp:199451:11"/>found them in <hi>Jerusalem,</hi> in the Apostles time, under the name of Christians.</p>
+            <p>This will seem a strange Narrative to <hi>N. N.</hi> who in his Seminary was bred in that ignorant belief, that <hi>the whole Church of God, and the whole Christian world, for sixteen hundred years, held immutably the same tenets as the Roman Church holdeth now.</hi> Let him learn of his Bi<g ref="char:EOLhyphen"/>shop <hi>Fisher,</hi> that many Doctrines, now of principal importance in the Roman Church,
+<note place="margin">
+                  <hi>Roffens.</hi> Luther <hi>Consut.</hi> Art. 18.</note> are of no very old date. <hi>Of Purgatory</hi> (saith he) <hi>in the ancient Fathers there is no mention at all, or very rare. The Latins did not at once, but by little and little receive it. The</hi> Grecians <hi>believe it not to this day. And Purgatory being so long unknown, it is not to be marvelled, that in the first times of the Church there was no use of Indulgences; for they had their beginning after that men had a while been scarred with the torments of Purga<g ref="char:EOLhyphen"/>tory.</hi> For our part we joyn with the <hi>Roman</hi> Church in all the primitive Doctrine; And dissent in nothing from them, but where we must need say, <hi>In the beginning it was not so.</hi>
+            </p>
+            <p>
+               <hi>N. N.</hi> is very bitter against our Reformers, and brands them with <hi>Villany and Rebellion against their Superiors and lawful Pa<g ref="char:EOLhyphen"/>stors.</hi> I will not counterscold his scolding, but pass by these <hi>Ro<g ref="char:EOLhyphen"/>mish</hi> civilities which he learned in the Seminary. I will but tell him, that before he indite us of Rebellion for shaking off the Popes heavy voke from our neck, he must prove that the Pope is our lawful Pastor and Superior: And when he hath proved that, he must proceed to prove that Christ by saying to Saint <hi>Peter, feed my sheep,</hi> gave power to the Pope to tread upon the necks of Kings, and exercise over their sacred persons, their revenues, and the purses and consciences of their Subjects, that horrible Tyranny under which poor <hi>England</hi> hath groaned so many ages. Blessed be God who hath given to the Kings and Kingdom of <hi>England</hi> that wisdom and courage to come out of spiritual and secular bondage, and to enjoy the benefit of Christs promise, <hi>You shall know the truth, and the truth shall make you free.</hi>
+            </p>
+            <p>But I will not part with <hi>N. N.</hi> till I have payed him his fees for calling our Doctors <hi>cheaters,</hi> and our Religion a <hi>cheat.</hi> Where<g ref="char:EOLhyphen"/>as it will be found upon sober consideration, that he and his mates have been our Godfathers, by giving us their own names. And that since the world was created, never was such a mystery of <hi>cheating</hi> as the Papal Monarchy, and the <hi>Romish</hi> Religion. Look over the whole body, and all the parts of Christian Religion, and see whether any parcel of it was by them left sound, that could be screwed to feed the ambition and the Covetousness of the Clergy.</p>
+            <pb n="17" facs="tcp:199451:11"/>
+            <p> It goeth well with the points of the Trinity, and of the two Natures in the Person of Christ, that there is nothing to be got by all the Pro's and Con's of those Controversies which have di<g ref="char:EOLhyphen"/>stracted the ancient Church so many hundreds of years. Pope <hi>Julius</hi> got once much credit to his person and See, by standing firm for Saint <hi>Athanasius,</hi> and the <hi>Nicene</hi> Creed. But it is now above 900 years since the <hi>Roman</hi> See hath turned them out of doors. Let <hi>Protestants</hi> confute <hi>Arians</hi> and <hi>Pelagians</hi> if they will; The <hi>Roman</hi> Doctors look upon those debates unconcernedly. Some<g ref="char:EOLhyphen"/>thing they have said of them in their Common places; but in the emergent Contradictions, they are silent. Why? they are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, They bring no grist to their Mill.</p>
+            <p>They are not so demure in the points of Justification, and the vertue of Christs merit. We learn of Saint <hi>Paul,</hi>
+               <note place="margin">Rom. 5.1.</note> that <hi>being ju<g ref="char:EOLhyphen"/>stified by Faith, we have peace with God through Jesus Christ our Lord.</hi> That power of Faith is the great comfort of the Christi<g ref="char:EOLhyphen"/>an, but the great discomfort of the <hi>Roman</hi> Merchants, of the re<g ref="char:EOLhyphen"/>mission of sins; for if by Faith we be justified, and have peace with God, we need not go to the Jubilee, nor give money for human satisfactions to buy that peace. That Text doth so gravel the <hi>Je<g ref="char:EOLhyphen"/>suit Cornelius a Lapide,</hi> that he makes upon it this gloss,
+<note place="margin">Lapide Com. in hunc lo<g ref="char:EOLhyphen"/>cum.</note> which contradicteth the Text. <hi>This peace</hi> (saith he) <hi>is the tranquility, serenity and confidence of a righteous and good conscience, not out of a certainty of divine Faith, by which a man most certainly believeth that his sins are remitted, as the Novellists</hi> (meaning the <hi>Protestants</hi>) <hi>will have it; but out of conjectures and signs, which breed a kind of moral certainty.</hi> We say not that there is no Faith, when there is not in a man a most certain confidence of the remission of his sins. But every Christian ought to have a most certain confidence, that there is no way for him to have remission of sins, and peace with God, but through Christ. Such a Divine Confidence doth not please this <hi>Jesuit.</hi> He alloweth not to his Disciples a Divine Faith, grounded upon the Love of God, and the Merit of Christ, but <hi>a kind of moral certainty upon signs and conjectures.</hi> Is it not plain, that his end is to send men unsatisfied from Christ, of whom, by their private Faith, they may get a comfort but of a kind of mo<g ref="char:EOLhyphen"/>ral certainty; and to make them go to the Pope, who hath the plenitude of the Merits both of Christ, and of the Saints and Monks, in his disposition; and to the Shops of Indulgences, where every man may get Paradice for his money?</p>
+            <p>To the same purpose is the Doctrine, that Christ by his Death and Merit hath taken away the guilt of sin, but not the punish<g ref="char:EOLhyphen"/>ment: That God hath forgiven sinners the sin, but they must
+<pb n="18" facs="tcp:199451:12"/>suffer for it, unless they compound for it with the Church. Rare nonsense! yet such as perswadeth men, cunning enough for the World, but frighted out of their wits by the pangs of an evil Conscience, to part with real money and land to avoid the imagi<g ref="char:EOLhyphen"/>nary fire of Purgatory; running at the same time into the real tor<g ref="char:EOLhyphen"/>ments of hell by their wicked life.</p>
+            <p>But because now a-days fewer will be cheated out of their Land than in old time; and persons of quality are often short of money, the Pardon-mongers will compound with such Customers at easy rates, rather than lose their Custom. The <hi>English,</hi> and <hi>Irish</hi> espe<g ref="char:EOLhyphen"/>cially, are courted with large Pardons, and easy Penances, to buy their firm adherence to the Holy See.</p>
+            <p>Whereas, if we look up to the dark Ages of our Fore-fathers, in which the Church grew rich, you will wonder what incredi<g ref="char:EOLhyphen"/>ble wealth was got by that gross cheat of Purgatory. How dull sinners, terrified with their crimes, founded so many rich Mona<g ref="char:EOLhyphen"/>steries, and gave so much Land to the Abbeys to pray for their Souls, that the Clergy is become formidable to Princes by their wealth and power; and by that numerous and rich Clergy, who all acknowledg the Pope for their head, the Pope hath a mighty party in all States, kept at the charges of the Princes and people whom they tyrannize over. A party ready to assist him at all occasions of need, so that he needs not to pay Armies or Gari<g ref="char:EOLhyphen"/>sons.</p>
+            <p>In all Countries, where Popery hath the upper-hand, doth not the Pope cheat the Soveraigns of great part of their Native Subjects, who being entred into the Clergy, claim exemption from the Se<g ref="char:EOLhyphen"/>cular powers, depend on the Popes Courts, and pay him Annates and Tributes?</p>
+            <p>The greatest cheat of all, and which hath raised the greatest storms in <hi>Europe,</hi> is the abuse of the power of the Keys. Not so much by teaching those Keys to open Chests (which they have done to some purpose), as by justling with those Keys against the Imperial Swords. With those Keys the Popes have knocked down the Crown of the Kings of <hi>Italy</hi> of the Race of <hi>Charlemagne.</hi> With those Keys they have so battered the Emperors Crown, that they made him loose his large. Territories in <hi>Italy;</hi> and so broke to pieces his <hi>German</hi> Crown, that there is scarce one left which he may call absolutely his own. And yet (O the cheating witch<g ref="char:EOLhyphen"/>craft of the <hi>Roman</hi> See) no Prince hath more Devotion to it than the Emperor, who is a main prop of the Empire of the destroyer of his!</p>
+            <p>Of the horrible Cheats and Tyranny of the Popes in <hi>England,</hi>
+               <pb n="19" facs="tcp:199451:12"/>whereby they have unking'd our Kings, and fetched many times more money out of <hi>England</hi> than they left in it, two Monks, <hi>Mat<g ref="char:EOLhyphen"/>thew Paris,</hi> and <hi>Matthew</hi> of <hi>Westminster,</hi> have left a large account to the World.</p>
+            <p>The Popes Revenue at home, being about two Millions yearly; it were easy, but too long, to prove by the Histories now extant, that he got his principalities by fraud and oppression. His Reve<g ref="char:EOLhyphen"/>nue out of the Clergy depends much upon that his Clergy gets. The Pope furnisheth them with the Nets of Indulgences to catch the prey, and those, are various, and often change garb; for as the peoples Devotion to old Saints is cooling, he reneweth Indulgences for new ones; for which, he never wanteth the Warrant of Re<g ref="char:EOLhyphen"/>velations, Miracles, and Visions of Holy Votaries. Great sums are got by those new Indulgences. At the publishing of one of them, the <hi>Cordeliers</hi> of <hi>Orleans</hi> caught four thousand Crowns at one draught.</p>
+            <p>They have bowed Gods Commandments to their own profit and conveniency. Finding it less gainful for their Trade, to make the people to worship God alone, than to make them worship others with him; because the people love variety, and multitude of Saints giveth occasion for multitude of Indulgences, they have fitted the publick Devotions to the peoples humour, and their own gain.</p>
+            <p>For their own gain, they have left out the second precept against Images out of their Catechism: Finding that men (such is their weakness) love to see what they worship, and are apt to say,
+<note place="margin">Exod. 32.2.</note>
+               <hi>Make us Gods that may go before us:</hi> they have humoured them, and amused their eyes with Images, Relicks, Beads, <hi>Agnus Dei</hi>'s, and multitude of holy Trinkets. They have strengthened the ado<g ref="char:EOLhyphen"/>ration of Images, with miracles and Indulgences. What treasures they have got by the Images of greater credit, is past reckoning. Some Kingdoms yield a less revenue to their King than the Image of <hi>Lauretta</hi> brings to the Monks, and to the Pope at the second<g ref="char:EOLhyphen"/>hand.</p>
+            <p>Now, because the people would be saved, but are loath to leave their sins to get Paradice, and to sadden their jollity with Devo<g ref="char:EOLhyphen"/>tion and Austerity, several Orders of Fryers, which multiply dai<g ref="char:EOLhyphen"/>ly, have taken upon themselves to be Holy, Strict, Devout and Austere for the Gallants, who cannot in thankfulness but give them good Fees for it; whereby Mendicant Fryars are become rich So<g ref="char:EOLhyphen"/>cieties.</p>
+            <p>Their great Harvest is, when a great Noble-man, or a rich Wi<g ref="char:EOLhyphen"/>dow lye on their death-bed. Then the hatred of the Regular Cler<g ref="char:EOLhyphen"/>gy
+<pb n="20" facs="tcp:199451:13"/>against the Secular, and the envy of the several Orders of Fry<g ref="char:EOLhyphen"/>ars among themselves, and the cheating and griping of them all, is most odiously evident. The Parish-Priest, as the Pastor, will have the governing of his Parishioners conscience. But while he is about it, Fryars of several Orders, all richly gifted with impu<g ref="char:EOLhyphen"/>dence, will croud in, and thrust out both him and one another with violence. Some have singular indulgences for departing souls. Others have yet a more compendious way to Heaven. All provi<g ref="char:EOLhyphen"/>ded with some toys of Relicks for the Patient to kiss. If one have a piece of the wood of the Virgin <hi>Mary's</hi> Cradle, another will bring forth a rag dipt in Saint <hi>Francis</hi> his blood, when he re<g ref="char:EOLhyphen"/>ceived the stigmats; another a great Tooth of Saint <hi>Apollonia.</hi> And in stead of preparing the dying Patient to a better world, they will thwart one another with high and foul words, and the sick party in that extremity is torn by Vultures, miserable comforters. The way of Salvation offered to him by each Or<g ref="char:EOLhyphen"/>der, is to endow their Convent bountifully, that his Soul may be prayed for. But the <hi>Jesuits</hi> commonly will out-wit them all, ap<g ref="char:EOLhyphen"/>plying themselves to great persons before they be sick, sticking to them, and keeping out all others in their last sickness; whereby they have hooked in great inheritances, to the exclusion of the right heirs.</p>
+            <p>Then the Obits or Services for the dead yield to them, and to the Parish Priest, a considerable revenue. He that dying leaveth nothing to the Church, is cryed down by them as damned. The History is known of the Prevosts of <hi>Orleans</hi> Wife; at whose death, her Husband allowed no Legacy to the Church, which was so ill resented by the <hi>Cordeliers,</hi> that they appointed one of their Con<g ref="char:EOLhyphen"/>vent to creep between the Cieling and the Roof of their Church, and there to bustle, and skreek, and howl. At which all the City being frighted, as if the Church were haunted by the Devil, and flocking to the place, the Spirit was conjured, by an Exorcist, to speak what he was, and what he would have. Then the Spirit spake, <hi>She was the soul of the Prevosts wife, for whose health no<g ref="char:EOLhyphen"/>thing was given to the Church; and that for want of the prayers of the Church she was in horrible Torment.</hi> But the Prevost, a stout man, got the matter so well searched, that the Imposture was found out, and the Impostors whipt and stigmatized, without respect to their Cowles, and the indempnities of their Order. The like Imposture was acted, and discovered at <hi>Bearn,</hi> by the <hi>Dominicans,</hi> An. 1507, and that discovery made way for the Reformation, which followed soon after in that Canton. But they have lear<g ref="char:EOLhyphen"/>ned since to cheat more cautiously.</p>
+            <pb n="21" facs="tcp:199451:13"/>
+            <p> As the Clergy thriveth by the simpleness of the people, so the Pope thriveth by the cheats of the Clergy, and by their errors in it. He useth those Religious Houses as Sponges to drink what juice they can from the people, that afterwards he may wring them out.</p>
+            <p>The multiplication of Holy days, is one of the great cheats of the Papal Clergy to increase their wealth. For upon those days the Shops of the Laity are shut up, and those of the Clergy open; and in all those days Pardons may be had in some Church or Convent. But these Arts do not speed alike in all places. They have not been lucky to the King of <hi>Spains</hi> Dominions in the <hi>Low-Countries.</hi> For it is observed that his Cities that joyn upon the <hi>Ʋnited Provinces,</hi> are thin of inhabitants, because the Holy-days, up<g ref="char:EOLhyphen"/>on which Shop-keepers must not sell, and handicrafts-men must not work, being now well-nigh as many as the worky-days; those men that live by their daily Labour and Trading, were easily perswa<g ref="char:EOLhyphen"/>ded to remove to the Neighbouring-Towns, where they may Trade and work all the days of the week but Sundays; and withal, be freed of the pinching of Fryers and Priests upon the living and the dead; for they have infinite tricks to hook in the money of the Laity. A place that hath multitude of that Clergy, shall never grow rich. In our memory, <hi>Charles Gonzaga,</hi> Duke of <hi>Nevers,</hi> built a City, which by his Name he called <hi>Charleville,</hi> in a little Soveraignty of his, near the Frontiers of <hi>Lorrain.</hi> His first buil<g ref="char:EOLhyphen"/>dings in it were a House for the <hi>Jesuits,</hi> and a Convent of <hi>Ca<g ref="char:EOLhyphen"/>pucins.</hi> This made some judicious men to foretel, that the Town was no more like to grow rich, than a Fish-pond to be well stored with Fish, when <hi>Pykes</hi> are put into it before the <hi>Carps.</hi> And the Prognostication hath proved true.</p>
+            <p>Where the Clergy is rich, the Pope gets great booties by visit<g ref="char:EOLhyphen"/>ing them. <hi>Pius</hi> the V. under pretence of visiting and reforming the Clergy, drew fourteen Millions from the Clergy of <hi>Spain;</hi> for which, he was complained of to the Council of that King<g ref="char:EOLhyphen"/>dom.</p>
+            <p>Of later date,
+<note place="margin">Memorial de Ma<g ref="char:EOLhyphen"/>gest. Ca<g ref="char:EOLhyphen"/>tholica.</note> the King of <hi>Spain</hi> himself publish'd a Book of Expostulations against the Court of Rome, for their cruel exactions upon the <hi>Spanish</hi> Clergy. He representeth that the Pope imposed Pensions upon Benefices, even those that had cure of souls, in fa<g ref="char:EOLhyphen"/>vour of strangers, in an excessive proportion, even to the third part of the full value. That the Fees of his Court were so great, that they were a sufficient punishment for a grievous crime. That a rich Clergy-man could no sooner fall sick, but the Popes Collectors were gaping about him for his goods, and set guards about his
+<pb n="22" facs="tcp:199451:14"/>house, because the Pope did challenge and usurp for himself, at the death of Clergy-men, all their estates that were raised out of the revenues of the Church. That by this means, Bishops had not left, before they were dead, a Candlestick, or a Cup to drink in: yea, that they have been disserted upon their death-beds, and famished for want of meat to eat. So they deserved to be used, that had bound themselves slaves to such an ill Ma<g ref="char:EOLhyphen"/>ster.</p>
+            <p>To these joyn the account which the excellent Convert,
+<note place="margin">True Ca<g ref="char:EOLhyphen"/>tholick Aposto<g ref="char:EOLhyphen"/>lick faith, l. 1. p. 85.</note> Dr. <hi>Andrew Sall,</hi> giveth of the monstrous exactions of the Datory Office, by which <hi>Paul</hi> the V had scraped up from the Clergy twenty hundred thousand scutes, taking for the sale of Benefices five years Pension before-hand; which is selling at the rate of 30 in the 100, besides the Clergy-mans personal service. And selling for those Benefices Coadjutorships, with assurance of future succession after his death, to whom the purchaser was made Coadjutor; making him pay one years profit for the expediting and Fees of the <hi>Bull.</hi>
+            </p>
+            <p>Add to these, <hi>Item,</hi> For the Pall of an Archbishop, 20000 Ducats.</p>
+            <p>
+               <hi>Item,</hi> For a Licence to Marry in a degree allowed by God, but disallowed by the Church, 14000 Ducats.</p>
+            <p>
+               <hi>Item,</hi> For a Prince to Marry his Aunt; A sum not to be told.</p>
+            <p>
+               <hi>Item,</hi> So much for another to Marry two Sisters.</p>
+            <p>
+               <hi>Item,</hi> So much for Legitimating a Bastard-issue.</p>
+            <p>
+               <hi>Item,</hi> So much for Dispensing a Prince from keeping his Oaths.</p>
+            <p>O that bottomless gulf of iniquity, covetousness, and fraud! those depths of Satan! I presume not to dive to the bottom of them. But some of them are so evident,
+<note place="margin">Tit. 9. <hi>de elect. in Secto.</hi> cap. <hi>Funda<g ref="char:EOLhyphen"/>menta.</hi> Theodo<g ref="char:EOLhyphen"/>ric. <hi>a Ni<g ref="char:EOLhyphen"/>hem.</hi> Tract. 6. cap 37. <hi>Miram est quantum ista de Christo fa<g ref="char:EOLhyphen"/>bula nobis affulerite<g ref="char:EOLhyphen"/>molument.</hi>
+               </note> that even the Glossaries of the Decretals made bold to say, <hi>Roma a praedonibus fundata ad huc de pri<g ref="char:EOLhyphen"/>mordiis retinet. Rome founded by thieves, still retaineth the ge<g ref="char:EOLhyphen"/>nius of her Origine.</hi> And even a Secretary of the Popes, saith, That <hi>the Apostolick Chamber is like the Sea, into which all Rivers flow, and never make it overflow: for streams of Gold from all parts ran into it by thousands, yet it is never full. There is in it a Ge<g ref="char:EOLhyphen"/>neration whose teeth are swords.</hi>
+            </p>
+            <p>Sure those <hi>Italian</hi> Gentlemen, being much of <hi>Leo</hi> the X<hi>'s</hi> Re<g ref="char:EOLhyphen"/>ligion, declared by him to Cardinal <hi>Bembo,</hi> laugh among them<g ref="char:EOLhyphen"/>selves, seeing the Wealth of Nations streaming amain into their lap, by the brutish zeal of the people, Tributary to their craft. And I presume, that from thence the <hi>Italians</hi> have got that pride, to call all nations but their own, <hi>bestias,</hi> because they have gulled them, to work the wealth and grandeur of <hi>Italy</hi> by their brutality.</p>
+            <pb n="23" facs="tcp:199451:14"/>
+            <p> That the Election of Popes may be suitable to their behaviour; there is not one Pope in twenty that comes not in by Cheat and Simony; and scarce one Cardinal that sells not his voice. Of that, the Histories are full, and the ordinary practice justifieth it.</p>
+            <p>These foul practices, making (by their own Laws) the Election void; An Exact and Learned pen of a Roman Catholick, hath pro<g ref="char:EOLhyphen"/>ved by clear evidences, that none of the Bishops or Popes, who usurped that See since <hi>Gregory</hi> the XIII, was a lawful Bishop. The Treatise written upon this Subject in Latin, was addrest to the Emperor, and all the Kings and Princes of the Christian world, and presented to the most Excellent King <hi>James,</hi> who caused it to be printed. Nine years after, it was printed in <hi>English,</hi> A. D. 1622. It was a supplication to all those Princes, to call a General Coun<g ref="char:EOLhyphen"/>cil against him that usurped the Papal Chair, <hi>Paul</hi> the V. Unto this day the book was not answered by any that we know. A clear proof that they wanted means to gain-say the truth of it. Of that Treatise, the Learned and faithful Convert, Dr. <hi>Sall,</hi> giv<g ref="char:EOLhyphen"/>eth a full account in his late Book of the Catholick and Aposto<g ref="char:EOLhyphen"/>lick Faith maintained in <hi>England;</hi>
+               <note place="margin">1. Book. cap. 9.</note> in which he fully discovereth the horrible collusions and foul practices in those Elections; and proveth that <hi>Sixtus</hi> the V, <hi>Clement</hi> the VIII, and <hi>Paul</hi> the V, were no Popes, and the Cardinals made by them no Cardinals, and had no power to Elect Popes. And what are now the Popes Elected by such Cardinals? What shall the Popes be that are to come, having no warrant for their Authority but that succession? Upon that rotten thred hangs the Headship of the pretended Vicar of Christ, and the Infallibility of the <hi>Roman</hi> Chair. Blessed be God, that our Faith stands upon a better pillar and ground of truth than that See, in which Satan can claim so much right, both be<g ref="char:EOLhyphen"/>cause it is obtained, and because it is maintained by his Arts.</p>
+            <p>Leaving the Grandees alone; what are you, Sir, <hi>N. N.</hi> who take upon you to upbraid our Divines with <hi>Cheating,</hi> but an ar<g ref="char:EOLhyphen"/>rant <hi>Cheater?</hi> This I will prove by yours, and your fellow-Priests practice. If two bring Jewels to sell to a Lady, and the one desire her Ladiship to get her Jewels seen and tryed by Jewellers before she buy them; and the other will not part with them, unless the Lady bind her self by a strict Covenant with him to keep them close, and let none of them that deal in Jewels see any of them: I pray, which of the two is the likelier to prove a Cheater? This is the case between you and me. I desire to have the Doctrine which I set forth, tryed by friends and foes, by the light of Gods word, and in the sight of the World. But you forbid those whose con<g ref="char:EOLhyphen"/>science you take upon you to govern, to let any but your self and
+<pb n="24" facs="tcp:199451:15"/>your confederates to know what Doctrine and what Devotions you im<g ref="char:EOLhyphen"/>pose upon them. To all books but yours, you make them blind. To all discourses but yours you make them deaf. Is it not because you fear that the light of Gods word should open their eyes, and let them see the unsoundness of your wares?</p>
+            <p>Well, when you have brought them to subjection, what food do you give to their souls? Not the holy Scripture, a dangerous, a forbidden book, because it hath made many Hereticks, or at least hath alienated many from your Church:
+<note place="margin">Dr. <hi>Sall</hi> p. 86. of the first book of the Ca<g ref="char:EOLhyphen"/>tholick Faith, <hi>&amp;c.</hi>
+               </note> And (as he telleth you, that was lately one of yours) <hi>you permit them not to know more than their beads, or some small prayer-book, with the Letanies of the con<g ref="char:EOLhyphen"/>ception, or Saint Josephs</hi> Sarata Teresa, <hi>&amp;c. and a list of great In<g ref="char:EOLhyphen"/>dulgences for very small Devotions.</hi> You admit them to the fra<g ref="char:EOLhyphen"/>ternity of the Rosary, and perhaps of other Societies, whereby they get a share in all their merits, though they will have no share in their Austerities: but they must pay for it; for that part<g ref="char:EOLhyphen"/>nership in the merits of holy Votaries, is only <hi>manus porrigentibus adjutrices,</hi> for those that help the Catholick party with money, either to send to Convents beyond the Sea, or to maintain Priests and Fryars at home, or to keep in a common stock for emergent occasions, of setting up the Pope in <hi>England</hi> again, though by the ruin of King and Kingdom.</p>
+            <p>You give to your Disciples false notions of our Religion: That it began by <hi>Luther,</hi> and never was heard of before. That all the Primi<g ref="char:EOLhyphen"/>tive Church, and the whole Christian world in our days, are a<g ref="char:EOLhyphen"/>gainst it. That we are all for faith, and reject good works. That we despise the Fathers of the Church, hate Saints, and revile the Virgin <hi>Mary.</hi>
+            </p>
+            <p>For points of Doctrine you require no more of your Disciples, but to believe what the Church believeth, never inquiring what the Church believeth; and to repose themselves absolutely upon their Pastors faith, who must believe for them what they should believe. By that way a man is a believer in the great, but an unbeliever in retail; and blindness and ignorance is pretended to be a Christian profession.</p>
+            <p>Hear the example recommended by that great pillar of Popery, <hi>Gregorius de Valentia,</hi> for all Christians to follow. He highly prai<g ref="char:EOLhyphen"/>seth a Merchant of <hi>Placentia,</hi>
+               <note place="margin">
+                  <hi>Analisi de Ecclesia,</hi> p 205.</note> reasoning in this manner: <hi>I am re<g ref="char:EOLhyphen"/>solved to embrace, rather the Papal than the Lutheran Religion; especially, because in the Papal I may learn the truth with little a<g ref="char:EOLhyphen"/>do; what the Pope affirmeth, I will affirm; what the Pope denyeth, I will deny; if he will say more, I will assent to more. Whereas, if I will turn</hi> Lutheran, <hi>I must learn a Catechism, and search the Scrip<g ref="char:EOLhyphen"/>ture,
+<pb n="25" facs="tcp:199451:15"/>which I cannot do; when I should rather look to my</hi> Italian <hi>Ships, and take care to get forreign wares.</hi> And he addeth again,
+<note place="margin">Pag. 207.</note> That <hi>God in his terrible judgment shall have nothing at all to say against that man.</hi>
+            </p>
+            <p>Such is the <hi>Roman</hi> faith, thus described by Cardinal <hi>Bellarmin, Fides melius per ignorantiam quam per notitiam definitur.</hi>
+               <note place="margin">Lib. 1. <hi>de Justifica<g ref="char:EOLhyphen"/>ve,</hi> cap. 7.</note>
+               <hi>The de<g ref="char:EOLhyphen"/>finition of faith is better made by ignorance than by knowledg.</hi>
+            </p>
+            <p>Ignorance is the strong and main Bulwark of the <hi>Roman</hi> Re<g ref="char:EOLhyphen"/>ligion, which therefore is defended with the utmost care and ob<g ref="char:EOLhyphen"/>stinacy. For if all that bear the name of Christians, did but know and believe, <hi>That God will be alone worshipped and prayed to; that the blood of Christ doth cleanse us from all sin; that there is no sal<g ref="char:EOLhyphen"/>vation in any other, and none other name under Heaven given among men, whereby we must be saved:</hi> down would fall the lucrative In<g ref="char:EOLhyphen"/>vocation of Saints, the foul Merchandize of Indulgences, and the treasure of human satisfactions. The fire of Purgatory would go out: No more Pilgrimage and Jubilees; for who would travel a thousand miles to fetch the remission of sins, if he may find it at home in Gods word, and obtain it by a lively saith, upon an humble repentance, and a serious Conversion? Then also Capucins would give over whipping themselves for the sins of others; and their Chapmen would leave buying that which the sellers cannot deliver. Then also Christians, finding no help in the Invocation of Saints, much less would seek it in the service of their Images, but would cast away their <hi>Images to the Moles and to the Bats.</hi>
+               <note place="margin">Isa. 2.20.</note> But then, what would be left to feed the pride of the Pope, and the belly of the Monks?</p>
+            <p>These being fed by the ignorance of the people, and the cheat<g ref="char:EOLhyphen"/>ing of the Clergy, it belongs to your Trade, Sir, diligently to cheat your Disciples to <hi>ignorance,</hi> Saint <hi>Ignorance,</hi> precious <hi>Ignorance,</hi> your bountiful Nurse. And you do it with your most earnest en<g ref="char:EOLhyphen"/>deavour, keeping out very far from your Disciples those truths which are so ruinous to your cause.</p>
+            <p>But there is one point, (you wish it were a truth) in which you ground your Disciples with great care; That the Pope is the Soveraign of <hi>England</hi> and <hi>Ireland,</hi> both for the Spiritual and the Temporal. This is the main point of Religion with the <hi>En<g ref="char:EOLhyphen"/>glish Roman</hi>-Catholicks; this is the point for which <hi>Thomas Becket</hi> suffered Martyrdom; this is the point for which the powder-Traitors plotted that Treason, and for which they suffered; this is the point for which the <hi>Irish</hi> Massacred two hundred thousand <hi>Protestants,</hi> to begin a War, in which the Popes Standard was set up; this is the point for which Cardinal <hi>Barbarini</hi> was so severe
+<pb n="26" facs="tcp:199451:16"/>against those <hi>English</hi> and <hi>Irish</hi> Lords, who had so much forgotten their first faith, as to swear Fidelity to their King. What more? this is the point which the formidable faculty of the <hi>Lovain</hi> Divines, asserted by an express Declaration sent abroad to shew their zeal and folly.</p>
+            <p>Certainly, this is the only point of which his Holiness is sensible. Two Popes have made this good, having offered to Queen <hi>Eliza<g ref="char:EOLhyphen"/>beth</hi> to confirm the Reformation of <hi>England,</hi> and our book of pub<g ref="char:EOLhyphen"/>lick service, if her Majesty would but have taken it from them, and acknowledged the Popes power. And this is the point for which so many Emissaries are sent from <hi>Rome</hi> into <hi>England, N. N.</hi> one of them, who cannot in conscience deny that this was the chief point of his instructions from his Superiors, to labour most earnestly to reduce the <hi>English</hi> to the Obedience of the See of <hi>Rome.</hi>
+            </p>
+            <p>I summon him to Obedience to a greater Superior, and Exhort him, both by the Compassions of God, which I heartily wish to him, and by the terror of his Judgments to obdurate sinners in their willful blindness; That he weigh with impartiality the truths contained in this discourse, the untruths which he is employed to maintain, and the foul dealings of his pary, which likely he knew not before. Let him open his eyes, and behold, How <hi>from the sole of the foot, even unto the head, there is no soundness in it, but wounds,</hi>
+               <note place="margin">Isa. 1.6.</note>
+               <hi>and bruises, and putrifying sores.</hi> Under the name of the Church of Christ, the Synagogue of Satan, and the pride of <hi>Babylon,</hi> maintained by all the wicked arts of griping, and Impo<g ref="char:EOLhyphen"/>sture of her Agents, and by the stupidity and ignorance of the World, now so tamed to be cheated, that they take them for their enemies that lay open the truth of God before them, that they may not run blindfolded into perdition. Christ who hath purcha<g ref="char:EOLhyphen"/>sed a Church to himself by his blood, preserve the oppressed re<g ref="char:EOLhyphen"/>mains of Christianity, which we still acknowledg among the gene<g ref="char:EOLhyphen"/>ral Corruption.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:199451:16"/>
+            <head>
+               <hi>Books Printed for, and sold by</hi> H. Brome, <hi>since the dreadful Fire of</hi> Lon<g ref="char:EOLhyphen"/>don, 1666, to 1677.</head>
+            <list>
+               <head>Divinity.</head>
+               <item>DR. <hi>Heylin</hi> on the Creed, <hi>fol.</hi>
+               </item>
+               <item>Bishop <hi>Taylor</hi>'s Cases of Conscience, <hi>fol.</hi>
+               </item>
+               <item>—His Polemical Discourses, <hi>fol.</hi>
+               </item>
+               <item>Mr. <hi>Cumber's</hi> Companion to the Temple, being a Paraphrase on the Com<g ref="char:EOLhyphen"/>mon-Prayer.</item>
+               <item>Bishop <hi>Wilkin's</hi> Principles and Duties of Natural Religion.</item>
+               <item>Bishop <hi>Cosen</hi>'s Devotions.</item>
+               <item>Mr. <hi>Fowler</hi>'s Design of Christianity.</item>
+               <item>Dr. <hi>Patrick</hi>'s Witnesses to Christianity, in two Vol.</item>
+               <item>Holy Anthems of the Church.</item>
+               <item>The Saints Legacies.</item>
+               <item>The Reformed Monastery, or the Love of Jesus.</item>
+               <item>
+                  <hi>Bona</hi>'s Guide to Eternity.</item>
+            </list>
+            <list>
+               <head>Sermons.</head>
+               <item>Dean <hi>Lloyd</hi>'s two Sermons at Court.</item>
+               <item>Dr. <hi>Sprat's</hi> Sermon at Court.</item>
+               <item>Bishop <hi>Lany</hi>'s Sermon at Court.</item>
+               <item>Mr. <hi>Sayer</hi>'s Assize-Sermon.</item>
+               <item>Mr. <hi>Naylor</hi>'s Con. Sermon for Col. <hi>Cavendish.</hi>
+               </item>
+               <item>Mr. <hi>Standish</hi>'s Sermon at Court.</item>
+               <item>Dr. <hi>Duport</hi>'s three Sermons on <hi>May</hi> 29th, <hi>Novemb.</hi> 5th, <hi>Jan.</hi> 30th.</item>
+               <item>Dr. <hi>Du Moulin</hi>'s two Sermons on <hi>Novemb.</hi> 5th.</item>
+               <item>—His Sermon at the Funeral of Dr. <hi>Turner.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Histories.</head>
+               <item>The Life of the great Duke of <hi>Espernon,</hi> being the History of the Civil Wars of <hi>France,</hi> beginning 1598, where <hi>D' Avila</hi> leaves off, and ending in 1642. by <hi>Charles Cotton</hi> Esq;</item>
+               <item>The Commentary of M. <hi>Bluiz. de Montluc,</hi> the great Favourite of <hi>France,</hi> in which are contained all the Seiges, Battels, Skirmishes, in Three Kings Reigns, by <hi>Charles Cotton</hi> Esq;</item>
+               <item>Mr. <hi>Rycaut</hi>'s History of <hi>Turky,</hi> with 80 <hi>Copper</hi> Cutts.</item>
+               <item>The History of the Three last Grand Seigniors, their Sultana's and Chief Favourites, English'd by <hi>John Evelin</hi> Esq;</item>
+               <item>The History of <hi>Don Quixot,</hi> fol.</item>
+               <item>Bishop <hi>Wilkin</hi>'s Real Character, <hi>fol.</hi>
+               </item>
+               <item>Bishop <hi>Cosens</hi> against Transubstantiation.</item>
+               <item>Dr. <hi>Guidot</hi>'s History of <hi>Bathe,</hi> and of the Hot Waters there.</item>
+               <item>
+                  <hi>Domus Carthusiana,</hi> or the History of the most Noble Foundation of the <hi>Charter-House</hi> in <hi>London,</hi> with the Life and Death of <hi>Tho. Sutton</hi> Esq;</item>
+               <item>The History of the <hi>Sevorites,</hi> a Nation inhabiting part of the third Con<g ref="char:EOLhyphen"/>tinent,
+<pb facs="tcp:199451:17"/>with their Government, Religion, Custom and Language.</item>
+            </list>
+            <list>
+               <head>Physick.</head>
+               <item>Dr. <hi>Glisson</hi> de Ventriculo &amp; Intestinis.</item>
+               <item>—De Vita Naturae.</item>
+               <item>Dr. <hi>Barbar</hi>'s Practice, with Dr. <hi>Decker</hi>'s Notes.</item>
+               <item>Sir <hi>Ken. Dygby</hi>'s Excellent Receipts in Physick, Chyrurgery and Cookery.</item>
+               <item>The Anatomy of the Elder Tree, with its approved Vertue.</item>
+            </list>
+            <list>
+               <head>Mescellanies.</head>
+               <item>Dr. <hi>Skinner</hi>'s <hi>Lexicon.</hi>
+               </item>
+               <item>History of the <hi>Irish</hi> Remonstrance.</item>
+               <item>The Planters Manual.</item>
+               <item>Treatise of Human Reason.</item>
+               <item>The Compleat Gamester.</item>
+               <item>Toleration discuss'd, by <hi>R. L'Estrange</hi> Esq;</item>
+               <item>
+                  <hi>Englands</hi> Improvement, by <hi>R. Coke</hi> Esq;</item>
+               <item>
+                  <hi>Leyburn</hi>'s Arith. Recreations.</item>
+               <item>Geographical Cards describing all parts of the World. And a Geographi<g ref="char:EOLhyphen"/>cal Dictionary.</item>
+            </list>
+            <list>
+               <head>School-Books.</head>
+               <item>
+                  <hi>Screvelius</hi> Lexicon in Quarto.</item>
+               <item>Centum Fabulae, in Octavo.</item>
+               <item>
+                  <hi>Nolens Volens,</hi> or you shall make Latine.</item>
+               <item>
+                  <hi>Radyns Rudimenta Artis Oratoriae.</hi>
+               </item>
+               <item>
+                  <hi>Pools</hi> Parnassus.</item>
+               <item>The Scholars Guide from the Accidence to the University.</item>
+               <item>
+                  <hi>Erasmus</hi> Coll. English.</item>
+               <item>
+                  <hi>Lipsius</hi> of Constancy, English.</item>
+            </list>
+            <list>
+               <head>Controversies.</head>
+               <item>Considerations touching the true way to suppress <hi>Popery;</hi> to which is ad<g ref="char:EOLhyphen"/>ded an Historical account of the Reformation here in <hi>England.</hi>
+               </item>
+               <item>
+                  <hi>Lex Talionis,</hi> being an Answer to <hi>Naked Truth.</hi>
+               </item>
+               <item>The <hi>Papists</hi> Apology answered.</item>
+               <item>A Seasonable Discourse against <hi>Popery.</hi>
+               </item>
+               <item>—The Defence of it.</item>
+               <item>The difference between the Church and Court of <hi>Rome.</hi>
+               </item>
+               <item>Take heed of both extreams, <hi>Popery</hi> and <hi>Presbytery,</hi> by Mr. <hi>Bolew.</hi>
+               </item>
+               <item>Dr. <hi>Du Moulin</hi> against the Lord <hi>Castlemain.</hi>
+               </item>
+               <item>—Against Papal Tyranny.</item>
+               <item>Fourteen Controversal Letters against <hi>Popery.</hi>
+               </item>
+               <item>
+                  <hi>Papists</hi> no Catholicks. Popery no Christianity.</item>
+               <item>Mr. <hi>Gataker</hi> against the <hi>Papists.</hi>
+               </item>
+               <item>
+                  <hi>Origo Protestantium:</hi> Or an answer to a Popish Manuscript (of <hi>N. N</hi>'s) Friendly and seasonable Advice to the <hi>Roman</hi>-Catholicks of <hi>England,</hi> the second Edition Enlarged.</item>
+            </list>
+            <pb facs="tcp:199451:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
